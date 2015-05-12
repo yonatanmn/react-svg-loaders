@@ -12,6 +12,7 @@
 
 'use strict';
 
+var React = require('react');
 
 
 
@@ -346,3 +347,5 @@ var SvgSpinners = React.createClass({
         )
     }
 });
+
+module.exports = SvgSpinners;
