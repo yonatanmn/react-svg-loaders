@@ -1,0 +1,26 @@
+{
+  "name": "react-svg-loaders",
+  "version": "0.0.1",
+  "description": "react component - gallery of SVG spinners and loaders",
+  "repository": {
+	 "type": "git",
+	 "url": "https://github.com/yonatanmn/react-svg-loaders"
+},
+ "keywords": [
+    "react",
+    "widget",
+    "spinner",
+    "loader",
+    "svg",
+    "easy to use",
+    "javascript",
+    "browser",
+    "react-component"
+  ],
+  "peerDependencies": {
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+
+  }
+}
